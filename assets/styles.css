@@ -1,0 +1,55 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    max-height: 150px;
+}
+
+form, .fruitBtn {
+    background-color: #474747;
+    color: white;
+}
+
+form {
+    padding: 5px;
+}
+
+#newFruitInput {
+    color: black;
+}
+
+.ratingStyle {
+    color: white;
+    background-color: black;
+}
+
+#addFruit {
+    background-color: white;
+    color: #474747;
+    border: none;
+}
+
+input {
+    margin: 30px;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+fruitButtons {
+    margin: 10px;
+}
+
+.fruitBtn {
+    padding: 6px;
+    margin: 3px;
+}
+
+#giphyLogo {
+    margin: 20px;
+}
+
+

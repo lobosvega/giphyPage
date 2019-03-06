@@ -1,0 +1,56 @@
+body {
+    background: url('');
+}
+
+img {
+    max-height: 150px;
+}
+
+form,
+.showBtn {
+    background-color: #474747;
+    color: white;
+}
+
+form {
+    padding: 10px;
+}
+
+#newFruitInput {
+    color: black;
+}
+
+.ratingStyle {
+    color: white;
+    background-color: black;
+}
+
+#addFruit {
+    background-color: white;
+    color: #474747;
+    border: none;
+}
+
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+#TVButtons {
+    margin: 10px;
+}
+
+.showBtn {
+    padding: 6px;
+    margin: 3px;
+}
+
+#giphyLogo {
+    margin: 20px;
+}
+
+
